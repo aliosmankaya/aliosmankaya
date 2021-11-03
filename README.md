@@ -5,8 +5,6 @@
 - 💬 Ask me about Data Science, Machine Learning and Deep Learning
 - ⚡ Fun fact: I like Sci-Fi
 
-![](https://komarev.com/ghpvc/?username=aliosmankaya&color=blue)
-
 ---
 
 ### 📫 How to reach me 
