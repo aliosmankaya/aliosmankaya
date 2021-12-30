@@ -17,3 +17,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliosmankaya)](https://github.com/anuraghazra/github-readme-stats)
+<iframe src="https://giphy.com/embed/Pu5F5t64WNKYE" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rick-neogaf-morty-Pu5F5t64WNKYE">via GIPHY</a></p>
