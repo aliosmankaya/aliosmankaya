@@ -17,4 +17,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliosmankaya)](https://github.com/anuraghazra/github-readme-stats)
-![]("https://giphy.com/embed/Pu5F5t64WNKYE")
+![]("https://media1.giphy.com/media/Pu5F5t64WNKYE/giphy.gif?cid=ecf05e47hmlv5rnazy0k23qi4ymyt2ma5fiq8u8gcv2ym1cb&rid=giphy.gif&ct=g")
