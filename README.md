@@ -13,7 +13,7 @@
   <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
 </a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aokaya16@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=aliosmankaya)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliosmankaya)](https://github.com/anuraghazra/github-readme-stats)
