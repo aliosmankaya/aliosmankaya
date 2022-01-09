@@ -17,4 +17,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliosmankaya)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://c.tenor.com/xa13NawKYQEAAAAd/pass-the-butter-what-is-my-purpose.gif" width=100 height="auto">
+<img src="https://c.tenor.com/xa13NawKYQEAAAAd/pass-the-butter-what-is-my-purpose.gif" width=400 height="auto">
