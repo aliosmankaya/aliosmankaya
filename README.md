@@ -27,5 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliosmankaya&show_icons=true&locale=en&layout=compact" alt="aliosmankaya" /></p>
 
-<p><img align="right" src="https://c.tenor.com/xa13NawKYQEAAAAd/pass-the-butter-what-is-my-purpose.gif" width=500 height="auto">
+<p><img align="right" src="https://c.tenor.com/xa13NawKYQEAAAAd/pass-the-butter-what-is-my-purpose.gif" width=400 height="auto">
 
