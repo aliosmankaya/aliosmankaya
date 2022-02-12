@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Osman</h1>
 <h3 align="center">Senior Mechatronics Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliosmankaya&label=Profile%20views&color=0e75b6&style=flat" alt="aliosmankaya" /> </p>
 
 - 🔭 I’m currently working on **Computer Vision**
 
