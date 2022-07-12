@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ali-osman-kaya-26b48b149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-osman-kaya-26b48b149/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aliosmankaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliosmankaya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aokaya16" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@aokaya16" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aokaya16" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@aokaya16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
