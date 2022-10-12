@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **SQL & Javascript**
+- 🌱 I’m currently learning **SQL & R**
 
 - 👨‍💻 All of my projects are available at [https://aliosmankaya.github.io/](https://aliosmankaya.github.io/)
 
