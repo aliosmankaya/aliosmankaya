@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Product Development & Microservices
 
-- 🌱 I’m currently learning Go & DevOps
+- 🌱 I’m currently learning Go
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
