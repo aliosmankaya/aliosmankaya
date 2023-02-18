@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ali Osman</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi there 👋 I'm Ali Osman</h1>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on Product Development & Microservices
 
-- 🌱 I’m currently learning **Go**
-
-- 👨‍💻 All of my projects are available at [https://aliosmankaya.github.io/](https://aliosmankaya.github.io/)
-
-- 💬 Ask me about **Data Science, Computer Vision & APIs**
-
-- 📫 How to reach me **aokaya16@gmail.com**
-
-- ⚡ Fun fact **I like Sci-fi**
+- 🌱 I’m currently learning Go & DevOps
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-osman-kaya-26b48b149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-osman-kaya-26b48b149/" height="30" width="40" /></a>
-<a href="https://kaggle.com/aliosmankaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliosmankaya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aokaya16" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@aokaya16" height="30" width="40" /></a>
+<a href="mailto:aokaya16@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="ali-osman-kaya-26b48b149/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
