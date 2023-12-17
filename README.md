@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Ali Osman</h1>
 
-- 🔭 I’m currently working on Product Development & Microservices
+- 🔭 I’m currently working on Large Language Models
 
 - 🌱 I’m currently learning Go
 
