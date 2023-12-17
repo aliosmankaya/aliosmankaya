@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Ali Osman</h1>
 
-- 🔭 I’m currently working on Large Language Models
+- 🔭 I’m currently working on Data Science
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Transformers & LLM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
